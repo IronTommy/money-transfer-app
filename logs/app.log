@@ -1,0 +1,6 @@
+21:13:34.293 [Thread-0] INFO  playtox.moneytransfer.service.MoneyTransferApp - Transaction: acc2 -> acc3, Amount: 2909
+21:13:34.472 [Thread-1] INFO  playtox.moneytransfer.service.MoneyTransferApp - Transaction: acc1 -> acc2, Amount: 6385
+21:13:35.461 [Thread-0] INFO  playtox.moneytransfer.service.MoneyTransferApp - Transaction: acc0 -> acc3, Amount: 5289
+21:13:36.421 [Thread-1] INFO  playtox.moneytransfer.service.MoneyTransferApp - Transaction: acc0 -> acc3, Amount: 4245
+21:13:37.341 [Thread-0] INFO  playtox.moneytransfer.service.MoneyTransferApp - Transaction: acc2 -> acc2, Amount: 4592
+21:13:38.086 [Thread-1] INFO  playtox.moneytransfer.service.MoneyTransferApp - Transaction: acc1 -> acc0, Amount: 2222
